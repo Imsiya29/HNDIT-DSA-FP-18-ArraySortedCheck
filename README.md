@@ -1,4 +1,4 @@
-# Even and Odd Counter
+# ArraySortedCheck
 
 *Author Name*: Imsiya Ameer 
 *Index Number*: BAT/IT/2022/P/18  
